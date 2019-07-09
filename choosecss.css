@@ -1,0 +1,82 @@
+/*css belongs with chooseameal.html
+Created by: Dominique Mendes*/
+
+h1{
+color:red;
+font-family:Century Gothic;	
+text-align:center;
+font-size:45px;
+	
+}
+
+body{
+	background-color:BlanchedAlmond;
+	font-family:Georgia;
+}
+
+#intro{
+	color:Indigo;
+	text-align:center;
+	padding-left:80px;
+	padding-right:80px;
+	font-size:18px;
+}
+
+.label{
+	background-color:#C287EF;
+	font-size:25px;
+	padding-left:100px;
+	margin-bottom:10px;
+	padding-right:100px;
+	
+}
+.picture{
+	height:180px;
+	width:200px;
+	border:5px solid;
+	border-color:#9187EF;
+	margin-left:225px;
+	margin-bottom:10px;
+}
+.caption{
+	margin-left:170px;
+	text-align:center;
+	margin-bottom:10px;
+	width:300px;
+	background-color:#BDE8ED;
+	color:#DF5B0E;
+}
+.submit{
+	color:#BDE8ED;
+	background-color:#DF5B0E;
+	border:3px solid;
+	border-color:#BDE8ED;
+	height:50px;
+	width:175px;
+	bottom:10px;
+	position:fixed;
+	right:40px;
+	font-family:Century Gothic;
+	font-weight:bold;
+	font-size:15px;
+	
+}
+.result{
+	color:#DF5B0E;
+	font-size:20px;
+	text-align:center;
+	border:3px solid;
+	border-color:#9187EF;
+}
+.resultpic{
+	border:5px solid;
+	border-color:#F6F61C;
+	height:300px;
+	width:450px;
+}
+.overlay:hover{
+	background-color:#BDE8ED none;
+	opacity:.5;
+	background-clip:content-box;
+	
+}
